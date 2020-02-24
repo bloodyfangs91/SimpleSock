@@ -1,0 +1,11 @@
+C:\Users\lferrer8\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lferrer8\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lferrer8\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lferrer8\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\ConsoleApp1.xml
+C:\Users\lferrer8\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.vbprojAssemblyReference.cache
+C:\Users\lferrer8\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.Resources.resources
+C:\Users\lferrer8\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.GenerateResource.cache
+C:\Users\lferrer8\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.CoreCompileInputs.cache
+C:\Users\lferrer8\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lferrer8\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.xml
+C:\Users\lferrer8\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

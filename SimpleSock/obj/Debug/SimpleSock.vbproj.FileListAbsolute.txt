@@ -1,0 +1,11 @@
+C:\Users\lferrer8\LocalWorkspace\SimpleSock\SimpleSock\SimpleSock\obj\Debug\SimpleSock.vbprojAssemblyReference.cache
+C:\Users\lferrer8\LocalWorkspace\SimpleSock\SimpleSock\SimpleSock\obj\Debug\ConsoleApp1.Resources.resources
+C:\Users\lferrer8\LocalWorkspace\SimpleSock\SimpleSock\SimpleSock\obj\Debug\SimpleSock.vbproj.GenerateResource.cache
+C:\Users\lferrer8\LocalWorkspace\SimpleSock\SimpleSock\SimpleSock\obj\Debug\SimpleSock.vbproj.CoreCompileInputs.cache
+C:\Users\lferrer8\LocalWorkspace\SimpleSock\SimpleSock\SimpleSock\bin\Debug\SimpleSock.exe.config
+C:\Users\lferrer8\LocalWorkspace\SimpleSock\SimpleSock\SimpleSock\bin\Debug\SimpleSock.exe
+C:\Users\lferrer8\LocalWorkspace\SimpleSock\SimpleSock\SimpleSock\bin\Debug\SimpleSock.pdb
+C:\Users\lferrer8\LocalWorkspace\SimpleSock\SimpleSock\SimpleSock\bin\Debug\SimpleSock.xml
+C:\Users\lferrer8\LocalWorkspace\SimpleSock\SimpleSock\SimpleSock\obj\Debug\SimpleSock.exe
+C:\Users\lferrer8\LocalWorkspace\SimpleSock\SimpleSock\SimpleSock\obj\Debug\SimpleSock.xml
+C:\Users\lferrer8\LocalWorkspace\SimpleSock\SimpleSock\SimpleSock\obj\Debug\SimpleSock.pdb
